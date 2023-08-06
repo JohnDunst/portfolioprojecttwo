@@ -1,0 +1,7 @@
+function Pokemon() {
+    function loadPokemon(){
+        
+
+
+    }
+}

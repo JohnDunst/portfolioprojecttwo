@@ -8,7 +8,7 @@ import './style.css';
 /*import Main from './components/MainComponent';*/
 function App() {
   return (
-    <div className="app">
+ //   <div className="app">
       <Header />
       <About />
       <Projects />

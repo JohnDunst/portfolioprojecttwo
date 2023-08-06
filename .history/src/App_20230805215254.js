@@ -4,19 +4,26 @@ import About from './components/About';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Resume from './components/Resume';
-import './style.css';
-/*import Main from './components/MainComponent';*/
-function App() {
-  return (
-    <div className="app">
-      <Header />
-      <About />
-      <Projects />
-      <Resume />
-      <Contact />
+import Pokemon from './components/Jolteon';
 
+import './style.css'
+
+function App ()  {
+
+    return (
+      <div className="app">
+      <Header />
+        <About />
+        <Projects />
+        <Resume />
+        <Contact />
+        <
+
+
+  
     </div>
-  );
+    );
 }
 
-export default App;
+  
+export default App

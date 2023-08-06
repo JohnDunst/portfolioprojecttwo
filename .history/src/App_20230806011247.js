@@ -5,7 +5,7 @@ import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Resume from './components/Resume';
 import './style.css';
-/*import Main from './components/MainComponent';*/
+
 function App() {
   return (
     <div className="app">
@@ -14,7 +14,6 @@ function App() {
       <Projects />
       <Resume />
       <Contact />
-
     </div>
   );
 }
